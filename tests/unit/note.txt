@@ -1,0 +1,4 @@
+Testes Unitários
+
+- Testa uma função ou método de forma isolada
+- Não possui side effects, pois não precisa se comunicar com nenhuma outra ferramenta

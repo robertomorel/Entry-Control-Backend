@@ -1,0 +1,5 @@
+Testes de Integração
+
+- Testam um fluxo de uma rota inteira da aplicação
+    Ex.: envia uma requisição, testa autenticação, testa busca, testa respostas
+- Testa por completo uma rota    
